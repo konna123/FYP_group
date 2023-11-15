@@ -59,4 +59,4 @@ jobs:
           app-name: 'app-c7ns5ye27weia'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_40B9F3923AEA4122A613052C4D978515 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5C3271B1B77E4CF78C9CBE3875CD3A64 }}
